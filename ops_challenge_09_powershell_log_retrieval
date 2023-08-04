@@ -1,0 +1,3 @@
+1. Get-EventLog -LogName System -After (Get-Date).AddDays(-1)  
+# This seemed too simple when I first wrote it and sure enough, I got screens worth of text. I just wanted to get a feel for it before refining it.
+# I will be working on this in the morning until class starts. I will be rewatching the Lecture demo to get it figured out.
