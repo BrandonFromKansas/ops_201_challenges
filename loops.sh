@@ -12,8 +12,9 @@
 # I also tried writing this code so that the user could enter a Y or N response to continue on with the "kill" command and I got it to work but with 
 # a lot of help from ChatGPT. I am not understanding when to use "[]" and why some code blocks have double brackets "[[ ]]". I need to go back and read
 # through Bash basics.
-#
 
+
+#!/bin/bash
 loopy() {
   while true; do
     echo "Currently Running Processes:"
